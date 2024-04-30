@@ -17,3 +17,21 @@ The data driving this analysis is sourced from Kaggle, a leading platform for sh
 
 ## **About the Author:**
 i am passionate about data analysis and visualization, dedicated to leveraging data for social impact and advocacy. Connect with me on [LinkedIn](https://www.linkedin.com/in/harshit-rajpurohit/).
+
+
+## **Dashboard Preview**
+
+### **Main page**
+![main-dashboard](https://github.com/Harshitrajpurohit/Delhi-Zomato-Restaurants-Analysis-Dashboard/assets/115687640/94105220-bb5e-4a74-9e6f-3c137c20c961)
+
+### ** Rating and Cost **
+![cost](https://github.com/Harshitrajpurohit/Delhi-Zomato-Restaurants-Analysis-Dashboard/assets/115687640/60626d24-704e-451e-ab87-fb97453c3d57)
+
+### **Ranting and Reviews**
+![main-rating](https://github.com/Harshitrajpurohit/Delhi-Zomato-Restaurants-Analysis-Dashboard/assets/115687640/dadf32b3-2635-49bf-beec-5eb176feda59)
+
+![main-food](https://github.com/Harshitrajpurohit/Delhi-Zomato-Restaurants-Analysis-Dashboard/assets/115687640/9d607074-7892-440a-b053-71ba9c735cbc)
+
+## **Table page**
+
+![Complete_table_data](https://github.com/Harshitrajpurohit/Delhi-Zomato-Restaurants-Analysis-Dashboard/assets/115687640/9e2d8154-4c91-44ae-a610-44bb56fd419e)
